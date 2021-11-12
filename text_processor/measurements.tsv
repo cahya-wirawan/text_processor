@@ -53,7 +53,7 @@ mv	milli volt
 mw	megawatt
 μm	mikrometer
 "	inch
-tb	terabyte
+TB	terabyte
 cc	c c
 da	dalton
 db	desibel
@@ -62,11 +62,11 @@ oz	ounce
 hl	hecto liter
 μg	mikrogram
 pg	petagram
-gb	gigabyte
+GB	gigabyte
 kb	kilobit
 ev	electron volt
-mb	megabyte
-kb	kilobyte
+MB	megabyte
+KB	kilobyte
 kl	kilo liter
 tj	tera joule
 kv	kilo volt
@@ -103,8 +103,10 @@ pb	peta byte
 gy	gray
 sv	sievert
 cc	c c
-f	fahrenheit
-c	celsius
+°F	derajat fahrenheit
+°f	derajat fahrenheit
+°C	derajat celsius
+°c	derajat celsius
 m	meter
 %	percent
 v	volt
